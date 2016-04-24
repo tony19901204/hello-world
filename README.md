@@ -1,2 +1,2 @@
 # hello-world
-A new commit in feature branch
+A new commit in feature branch.
